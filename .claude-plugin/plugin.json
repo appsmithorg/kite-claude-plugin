@@ -1,0 +1,12 @@
+{
+  "name": "kite",
+  "displayName": "Kite",
+  "description": "Work with your Kite AI marketing team from Claude: check tasks, review and publish website changes, start research, and answer approvals.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Appsmith",
+    "url": "https://kite.ai"
+  },
+  "homepage": "https://kite.ai",
+  "repository": "https://github.com/appsmithorg/kite-claude-plugin"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "kite",
+  "description": "The Kite plugin for Claude.",
+  "owner": {
+    "name": "Appsmith",
+    "url": "https://kite.ai"
+  },
+  "plugins": [
+    {
+      "name": "kite",
+      "source": "./",
+      "description": "Work with your Kite AI marketing team from Claude."
+    }
+  ]
+}
